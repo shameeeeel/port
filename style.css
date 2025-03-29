@@ -50,7 +50,7 @@ section {
 	padding: 50px;
 }
 #home, #services, #portfolio, #contact{
-	height: 100vh;
+	height: 150vh;
 	background-image: url('bg.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -87,13 +87,14 @@ div.homes .button{
 	align-items: center;
 }
 #about{
-	height: 100vh;
+	height: 150vh;
 	background-image: url('bg.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 
 }
 div.abouts{
+	padding-top: 5vh;
 	color: white;
 	display: flex;
 	flex-direction: column;
